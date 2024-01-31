@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: my_hello_lib
+Version: 0.1.0
+Summary: A simple Python library that provides a hello_world function.
+Author: Your Name
+Author-email: your@email.com
