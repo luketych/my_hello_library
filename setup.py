@@ -7,6 +7,7 @@ setup(
     author="Your Name",
     author_email="your@email.com",
    # py_modules=["my_hello_library"],  # Use py_modules for a single module
+    url='https://github.com/luketych/my_hello_library',
     packages=['my_hello_library'],
     scripts=['bin/test.py'],
     zip_safe=False
