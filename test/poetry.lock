@@ -123,7 +123,7 @@ files = [
 
 [[package]]
 name = "my_hello_library"
-version = "0.1.0"
+version = "0.2.0"
 description = "A simple Python library that provides a hello_world function."
 optional = false
 python-versions = "*"
@@ -134,7 +134,7 @@ develop = false
 type = "git"
 url = "git@github.com-luketych:luketych/my_hello_library"
 reference = "HEAD"
-resolved_reference = "2e2c30f05c90433a33a9530ef5a31f1ee02cf00f"
+resolved_reference = "5f830b88fc34ef679639f4a920cd1a043fa2fac5"
 
 [[package]]
 name = "requests"
